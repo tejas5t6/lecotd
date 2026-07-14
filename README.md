@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tejas5t6/lecotd/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tejas5t6/lecotd/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/tejas5t6/lecotd/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/tejas5t6/lecotd/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/tejas5t6/lecotd/tree/master/0485-max-consecutive-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tejas5t6/lecotd/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tejas5t6/lecotd/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/tejas5t6/lecotd/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/tejas5t6/lecotd/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tejas5t6/lecotd/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/tejas5t6/lecotd/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tejas5t6/lecotd/tree/master/0345-reverse-vowels-of-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tejas5t6/lecotd/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/tejas5t6/lecotd/tree/master/0189-rotate-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tejas5t6/lecotd/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
