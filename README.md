@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tejas5t6/lecotd/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/tejas5t6/lecotd/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/tejas5t6/lecotd/tree/master/0977-squares-of-a-sorted-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/tejas5t6/lecotd/tree/master/1248-count-number-of-nice-subarrays) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tejas5t6/lecotd/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tejas5t6/lecotd/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/tejas5t6/lecotd/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/tejas5t6/lecotd/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/tejas5t6/lecotd/tree/master/0633-sum-of-square-numbers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/tejas5t6/lecotd/tree/master/1248-count-number-of-nice-subarrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/tejas5t6/lecotd/tree/master/3536-maximum-product-of-two-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/tejas5t6/lecotd/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tejas5t6/lecotd/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -91,4 +93,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/tejas5t6/lecotd/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tejas5t6/lecotd/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/tejas5t6/lecotd/tree/master/1248-count-number-of-nice-subarrays) |
+## Sliding Window
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/tejas5t6/lecotd/tree/master/1248-count-number-of-nice-subarrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/tejas5t6/lecotd/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
