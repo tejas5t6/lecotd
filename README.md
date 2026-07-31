@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/tejas5t6/lecotd/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/tejas5t6/lecotd/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/tejas5t6/lecotd/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tejas5t6/lecotd/tree/master/0345-reverse-vowels-of-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tejas5t6/lecotd/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tejas5t6/lecotd/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tejas5t6/lecotd/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tejas5t6/lecotd/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/tejas5t6/lecotd/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/tejas5t6/lecotd/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tejas5t6/lecotd/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/tejas5t6/lecotd/tree/master/0633-sum-of-square-numbers) |
