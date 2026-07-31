@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tejas5t6/lecotd/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tejas5t6/lecotd/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tejas5t6/lecotd/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tejas5t6/lecotd/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tejas5t6/lecotd/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/tejas5t6/lecotd/tree/master/0977-squares-of-a-sorted-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tejas5t6/lecotd/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tejas5t6/lecotd/tree/master/3536-maximum-product-of-two-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/tejas5t6/lecotd/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Greedy
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/tejas5t6/lecotd/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tejas5t6/lecotd/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tejas5t6/lecotd/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tejas5t6/lecotd/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/tejas5t6/lecotd/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Math
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/tejas5t6/lecotd/tree/master/1248-count-number-of-nice-subarrays) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tejas5t6/lecotd/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -124,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tejas5t6/lecotd/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tejas5t6/lecotd/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
