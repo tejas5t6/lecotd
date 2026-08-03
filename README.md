@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tejas5t6/lecotd/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tejas5t6/lecotd/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tejas5t6/lecotd/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/tejas5t6/lecotd/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/tejas5t6/lecotd/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/tejas5t6/lecotd/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/tejas5t6/lecotd/tree/master/0485-max-consecutive-ones) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tejas5t6/lecotd/tree/master/0128-longest-consecutive-sequence) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tejas5t6/lecotd/tree/master/1248-count-number-of-nice-subarrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tejas5t6/lecotd/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/tejas5t6/lecotd/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tejas5t6/lecotd/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
