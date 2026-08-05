@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/tejas5t6/lecotd/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tejas5t6/lecotd/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/tejas5t6/lecotd/tree/master/1480-running-sum-of-1d-array) |
+| [1598-crawler-log-folder](https://github.com/tejas5t6/lecotd/tree/master/1598-crawler-log-folder) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/tejas5t6/lecotd/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tejas5t6/lecotd/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tejas5t6/lecotd/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tejas5t6/lecotd/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/tejas5t6/lecotd/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tejas5t6/lecotd/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1598-crawler-log-folder](https://github.com/tejas5t6/lecotd/tree/master/1598-crawler-log-folder) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tejas5t6/lecotd/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tejas5t6/lecotd/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tejas5t6/lecotd/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/tejas5t6/lecotd/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tejas5t6/lecotd/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1598-crawler-log-folder](https://github.com/tejas5t6/lecotd/tree/master/1598-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
