@@ -169,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tejas5t6/lecotd/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/tejas5t6/lecotd/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
