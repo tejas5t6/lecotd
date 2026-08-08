@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tejas5t6/lecotd/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/tejas5t6/lecotd/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tejas5t6/lecotd/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/tejas5t6/lecotd/tree/master/0316-remove-duplicate-letters) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tejas5t6/lecotd/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/tejas5t6/lecotd/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejas5t6/lecotd/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tejas5t6/lecotd/tree/master/0027-remove-element) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tejas5t6/lecotd/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/tejas5t6/lecotd/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/tejas5t6/lecotd/tree/master/0120-triangle) |
 | [0647-palindromic-substrings](https://github.com/tejas5t6/lecotd/tree/master/0647-palindromic-substrings) |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/tejas5t6/lecotd/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/tejas5t6/lecotd/tree/master/1289-minimum-falling-path-sum-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/tejas5t6/lecotd/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
