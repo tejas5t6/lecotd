@@ -29,7 +29,7 @@ class Solution {
         for(int i=0;i<n;i++){
            if(dp1[i]>1&&dp2[i]>1) maxi=Math.max(maxi,dp1[i]+dp2[i]-1);
         }
-
+        if(maxi<3) return 0;
         return nums.length-maxi;
     }
 }
