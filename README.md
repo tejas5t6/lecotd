@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tejas5t6/lecotd/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/tejas5t6/lecotd/tree/master/1480-running-sum-of-1d-array) |
 | [1598-crawler-log-folder](https://github.com/tejas5t6/lecotd/tree/master/1598-crawler-log-folder) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/tejas5t6/lecotd/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tejas5t6/lecotd/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/tejas5t6/lecotd/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tejas5t6/lecotd/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/tejas5t6/lecotd/tree/master/0316-remove-duplicate-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tejas5t6/lecotd/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tejas5t6/lecotd/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/tejas5t6/lecotd/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tejas5t6/lecotd/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tejas5t6/lecotd/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tejas5t6/lecotd/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tejas5t6/lecotd/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/tejas5t6/lecotd/tree/master/0162-find-peak-element) |
 | [0633-sum-of-square-numbers](https://github.com/tejas5t6/lecotd/tree/master/0633-sum-of-square-numbers) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/tejas5t6/lecotd/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Stack
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/tejas5t6/lecotd/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/tejas5t6/lecotd/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tejas5t6/lecotd/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/tejas5t6/lecotd/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
