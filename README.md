@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/tejas5t6/lecotd/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/tejas5t6/lecotd/tree/master/0986-interval-list-intersections) |
 | [1014-best-sightseeing-pair](https://github.com/tejas5t6/lecotd/tree/master/1014-best-sightseeing-pair) |
+| [1094-car-pooling](https://github.com/tejas5t6/lecotd/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tejas5t6/lecotd/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/tejas5t6/lecotd/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/tejas5t6/lecotd/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/tejas5t6/lecotd/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/tejas5t6/lecotd/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tejas5t6/lecotd/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/tejas5t6/lecotd/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/tejas5t6/lecotd/tree/master/1288-remove-covered-intervals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tejas5t6/lecotd/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/tejas5t6/lecotd/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/tejas5t6/lecotd/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/tejas5t6/lecotd/tree/master/0732-my-calendar-iii) |
+| [1094-car-pooling](https://github.com/tejas5t6/lecotd/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tejas5t6/lecotd/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/tejas5t6/lecotd/tree/master/1480-running-sum-of-1d-array) |
 ## Memoization
@@ -292,4 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/tejas5t6/lecotd/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tejas5t6/lecotd/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/tejas5t6/lecotd/tree/master/0732-my-calendar-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/tejas5t6/lecotd/tree/master/1094-car-pooling) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/tejas5t6/lecotd/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
