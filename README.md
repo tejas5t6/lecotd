@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejas5t6/lecotd/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/tejas5t6/lecotd/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/tejas5t6/lecotd/tree/master/0485-max-consecutive-ones) |
+| [0729-my-calendar-i](https://github.com/tejas5t6/lecotd/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tejas5t6/lecotd/tree/master/0731-my-calendar-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/tejas5t6/lecotd/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/tejas5t6/lecotd/tree/master/0905-sort-array-by-parity) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/tejas5t6/lecotd/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejas5t6/lecotd/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/tejas5t6/lecotd/tree/master/0633-sum-of-square-numbers) |
+| [0729-my-calendar-i](https://github.com/tejas5t6/lecotd/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tejas5t6/lecotd/tree/master/0731-my-calendar-ii) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/tejas5t6/lecotd/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Stack
@@ -269,13 +271,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/tejas5t6/lecotd/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tejas5t6/lecotd/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/tejas5t6/lecotd/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tejas5t6/lecotd/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/tejas5t6/lecotd/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tejas5t6/lecotd/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
