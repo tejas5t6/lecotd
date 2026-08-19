@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejas5t6/lecotd/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/tejas5t6/lecotd/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/tejas5t6/lecotd/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/tejas5t6/lecotd/tree/master/0494-target-sum) |
 | [0645-set-mismatch](https://github.com/tejas5t6/lecotd/tree/master/0645-set-mismatch) |
 | [0729-my-calendar-i](https://github.com/tejas5t6/lecotd/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tejas5t6/lecotd/tree/master/0731-my-calendar-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tejas5t6/lecotd/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/tejas5t6/lecotd/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/tejas5t6/lecotd/tree/master/0120-triangle) |
+| [0494-target-sum](https://github.com/tejas5t6/lecotd/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/tejas5t6/lecotd/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/tejas5t6/lecotd/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/tejas5t6/lecotd/tree/master/0931-minimum-falling-path-sum) |
@@ -303,4 +305,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/tejas5t6/lecotd/tree/master/1094-car-pooling) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/tejas5t6/lecotd/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/tejas5t6/lecotd/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/tejas5t6/lecotd/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
