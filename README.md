@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejas5t6/lecotd/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tejas5t6/lecotd/tree/master/0189-rotate-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/tejas5t6/lecotd/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/tejas5t6/lecotd/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejas5t6/lecotd/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/tejas5t6/lecotd/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/tejas5t6/lecotd/tree/master/0485-max-consecutive-ones) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tejas5t6/lecotd/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/tejas5t6/lecotd/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/tejas5t6/lecotd/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/tejas5t6/lecotd/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/tejas5t6/lecotd/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tejas5t6/lecotd/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tejas5t6/lecotd/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tejas5t6/lecotd/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/tejas5t6/lecotd/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejas5t6/lecotd/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0410-split-array-largest-sum](https://github.com/tejas5t6/lecotd/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/tejas5t6/lecotd/tree/master/0633-sum-of-square-numbers) |
 | [0729-my-calendar-i](https://github.com/tejas5t6/lecotd/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tejas5t6/lecotd/tree/master/0731-my-calendar-ii) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tejas5t6/lecotd/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/tejas5t6/lecotd/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/tejas5t6/lecotd/tree/master/0120-triangle) |
+| [0410-split-array-largest-sum](https://github.com/tejas5t6/lecotd/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/tejas5t6/lecotd/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/tejas5t6/lecotd/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/tejas5t6/lecotd/tree/master/0746-min-cost-climbing-stairs) |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/tejas5t6/lecotd/tree/master/0410-split-array-largest-sum) |
 | [0731-my-calendar-ii](https://github.com/tejas5t6/lecotd/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/tejas5t6/lecotd/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/tejas5t6/lecotd/tree/master/1094-car-pooling) |
