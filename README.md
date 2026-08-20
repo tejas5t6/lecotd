@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/tejas5t6/lecotd/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/tejas5t6/lecotd/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tejas5t6/lecotd/tree/master/0345-reverse-vowels-of-a-string) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/tejas5t6/lecotd/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0647-palindromic-substrings](https://github.com/tejas5t6/lecotd/tree/master/0647-palindromic-substrings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tejas5t6/lecotd/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tejas5t6/lecotd/tree/master/1081-smallest-subsequence-of-distinct-characters) |
