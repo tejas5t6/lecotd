@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tejas5t6/lecotd/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/tejas5t6/lecotd/tree/master/0547-number-of-provinces) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -328,4 +329,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/tejas5t6/lecotd/tree/master/0494-target-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/tejas5t6/lecotd/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/tejas5t6/lecotd/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/tejas5t6/lecotd/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
