@@ -15,7 +15,11 @@ class Solution {
         while(q.size()>0){
             Pair frnt =q.remove();
             int row=frnt.row;
-            int col=frnt.col;//we dont need to traverse for top and left side of the array
+            int col=frnt.col;
+            //we need fucking top and left side too because it is must needed 
+            //[["1","1","1"]
+            //["0","1","0"]
+            //["1","1","1"]] because at this point the leftmost 1 is not reacjable if i dont take left of the array to be considered.
             //top-> row-1,col
             if(row>0){
                 if(visited[row-1][col]==false && grid[row-1][col]=='1'){
