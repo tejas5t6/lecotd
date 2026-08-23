@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/tejas5t6/lecotd/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejas5t6/lecotd/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tejas5t6/lecotd/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/tejas5t6/lecotd/tree/master/0200-number-of-islands) |
 | [0334-increasing-triplet-subsequence](https://github.com/tejas5t6/lecotd/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/tejas5t6/lecotd/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejas5t6/lecotd/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tejas5t6/lecotd/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/tejas5t6/lecotd/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tejas5t6/lecotd/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejas5t6/lecotd/tree/master/1971-find-if-path-exists-in-graph) |
 ## Longest Common Subsequence
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/tejas5t6/lecotd/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/tejas5t6/lecotd/tree/master/0200-number-of-islands) |
 | [0931-minimum-falling-path-sum](https://github.com/tejas5t6/lecotd/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/tejas5t6/lecotd/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Manacher
@@ -333,11 +336,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/tejas5t6/lecotd/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tejas5t6/lecotd/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejas5t6/lecotd/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/tejas5t6/lecotd/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tejas5t6/lecotd/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejas5t6/lecotd/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
