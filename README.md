@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tejas5t6/lecotd/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/tejas5t6/lecotd/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/tejas5t6/lecotd/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tejas5t6/lecotd/tree/master/0070-climbing-stairs) |
@@ -354,4 +355,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/tejas5t6/lecotd/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tejas5t6/lecotd/tree/master/1971-find-if-path-exists-in-graph) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/tejas5t6/lecotd/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/tejas5t6/lecotd/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
