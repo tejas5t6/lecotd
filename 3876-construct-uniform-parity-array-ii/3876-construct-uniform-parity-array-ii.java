@@ -9,17 +9,9 @@ class Solution {
         // but for mini to be even 
         // we have to make eveyone even and it is possible only to copy paste the even numbers as it is to nums2 
         // but if any odd digit encounter then it can't be converted to the odd because odd-even =odd and to make the odd even we need another smaller odd number in the array but her the smallest is odd so the answer will be flase always if mini is even and there is any odd in the array.
-        for (int num : nums) {
-            mini =Math.min(mini,num);
-        }
-        if (mini%2==1) {
-            return true;
-        }
-        for (int num:nums) {
-            if (num%2==1) {
-                return false;
-            }
-        }
+        for (int num : nums) mini =Math.min(mini,num);
+        if (mini%2==1) return true;
+        for (int num:nums)if (num%2==1) return false;
         return true;
     }
 }
