@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/tejas5t6/lecotd/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/tejas5t6/lecotd/tree/master/0905-sort-array-by-parity) |
 | [0931-minimum-falling-path-sum](https://github.com/tejas5t6/lecotd/tree/master/0931-minimum-falling-path-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/tejas5t6/lecotd/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/tejas5t6/lecotd/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/tejas5t6/lecotd/tree/master/0986-interval-list-intersections) |
 | [1014-best-sightseeing-pair](https://github.com/tejas5t6/lecotd/tree/master/1014-best-sightseeing-pair) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/tejas5t6/lecotd/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/tejas5t6/lecotd/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/tejas5t6/lecotd/tree/master/0905-sort-array-by-parity) |
+| [0973-k-closest-points-to-origin](https://github.com/tejas5t6/lecotd/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/tejas5t6/lecotd/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/tejas5t6/lecotd/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/tejas5t6/lecotd/tree/master/1288-remove-covered-intervals) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tejas5t6/lecotd/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/tejas5t6/lecotd/tree/master/0279-perfect-squares) |
 | [0633-sum-of-square-numbers](https://github.com/tejas5t6/lecotd/tree/master/0633-sum-of-square-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/tejas5t6/lecotd/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tejas5t6/lecotd/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tejas5t6/lecotd/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tejas5t6/lecotd/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tejas5t6/lecotd/tree/master/0004-median-of-two-sorted-arrays) |
+| [0973-k-closest-points-to-origin](https://github.com/tejas5t6/lecotd/tree/master/0973-k-closest-points-to-origin) |
 ## Enumeration
 |  |
 | ------- |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/tejas5t6/lecotd/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/tejas5t6/lecotd/tree/master/1094-car-pooling) |
 ## Simulation
 |  |
@@ -386,4 +391,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/tejas5t6/lecotd/tree/master/0279-perfect-squares) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/tejas5t6/lecotd/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/tejas5t6/lecotd/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/tejas5t6/lecotd/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
