@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/tejas5t6/lecotd/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tejas5t6/lecotd/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tejas5t6/lecotd/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/tejas5t6/lecotd/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/tejas5t6/lecotd/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/tejas5t6/lecotd/tree/master/1480-running-sum-of-1d-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejas5t6/lecotd/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [3904-smallest-stable-index-ii](https://github.com/tejas5t6/lecotd/tree/master/3904-smallest-stable-index-ii) |
 ## Memoization
 |  |
 | ------- |
