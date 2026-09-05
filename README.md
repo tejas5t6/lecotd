@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/tejas5t6/lecotd/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tejas5t6/lecotd/tree/master/0731-my-calendar-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/tejas5t6/lecotd/tree/master/0746-min-cost-climbing-stairs) |
+| [0845-longest-mountain-in-array](https://github.com/tejas5t6/lecotd/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/tejas5t6/lecotd/tree/master/0905-sort-array-by-parity) |
 | [0931-minimum-falling-path-sum](https://github.com/tejas5t6/lecotd/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/tejas5t6/lecotd/tree/master/0973-k-closest-points-to-origin) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/tejas5t6/lecotd/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/tejas5t6/lecotd/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/tejas5t6/lecotd/tree/master/0647-palindromic-substrings) |
+| [0845-longest-mountain-in-array](https://github.com/tejas5t6/lecotd/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/tejas5t6/lecotd/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tejas5t6/lecotd/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/tejas5t6/lecotd/tree/master/0986-interval-list-intersections) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/tejas5t6/lecotd/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/tejas5t6/lecotd/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/tejas5t6/lecotd/tree/master/0746-min-cost-climbing-stairs) |
+| [0845-longest-mountain-in-array](https://github.com/tejas5t6/lecotd/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/tejas5t6/lecotd/tree/master/0931-minimum-falling-path-sum) |
 | [1014-best-sightseeing-pair](https://github.com/tejas5t6/lecotd/tree/master/1014-best-sightseeing-pair) |
 | [1092-shortest-common-supersequence](https://github.com/tejas5t6/lecotd/tree/master/1092-shortest-common-supersequence) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/tejas5t6/lecotd/tree/master/0845-longest-mountain-in-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tejas5t6/lecotd/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
