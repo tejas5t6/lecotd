@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tejas5t6/lecotd/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/tejas5t6/lecotd/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/tejas5t6/lecotd/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/tejas5t6/lecotd/tree/master/0229-majority-element-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/tejas5t6/lecotd/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/tejas5t6/lecotd/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/tejas5t6/lecotd/tree/master/0416-partition-equal-subset-sum) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/tejas5t6/lecotd/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/tejas5t6/lecotd/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/tejas5t6/lecotd/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejas5t6/lecotd/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/tejas5t6/lecotd/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/tejas5t6/lecotd/tree/master/0645-set-mismatch) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/tejas5t6/lecotd/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/tejas5t6/lecotd/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/tejas5t6/lecotd/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejas5t6/lecotd/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/tejas5t6/lecotd/tree/master/0645-set-mismatch) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tejas5t6/lecotd/tree/master/1248-count-number-of-nice-subarrays) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/tejas5t6/lecotd/tree/master/0229-majority-element-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tejas5t6/lecotd/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Quicksort
 |  |
@@ -412,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/tejas5t6/lecotd/tree/master/0973-k-closest-points-to-origin) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/tejas5t6/lecotd/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
