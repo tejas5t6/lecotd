@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/tejas5t6/lecotd/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/tejas5t6/lecotd/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tejas5t6/lecotd/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1402-reducing-dishes](https://github.com/tejas5t6/lecotd/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/tejas5t6/lecotd/tree/master/1480-running-sum-of-1d-array) |
 | [1598-crawler-log-folder](https://github.com/tejas5t6/lecotd/tree/master/1598-crawler-log-folder) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/tejas5t6/lecotd/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/tejas5t6/lecotd/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/tejas5t6/lecotd/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/tejas5t6/lecotd/tree/master/1288-remove-covered-intervals) |
+| [1402-reducing-dishes](https://github.com/tejas5t6/lecotd/tree/master/1402-reducing-dishes) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tejas5t6/lecotd/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/tejas5t6/lecotd/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tejas5t6/lecotd/tree/master/2094-finding-3-digit-even-numbers) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/tejas5t6/lecotd/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tejas5t6/lecotd/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tejas5t6/lecotd/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1402-reducing-dishes](https://github.com/tejas5t6/lecotd/tree/master/1402-reducing-dishes) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/tejas5t6/lecotd/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tejas5t6/lecotd/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tejas5t6/lecotd/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/tejas5t6/lecotd/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/tejas5t6/lecotd/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tejas5t6/lecotd/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1402-reducing-dishes](https://github.com/tejas5t6/lecotd/tree/master/1402-reducing-dishes) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/tejas5t6/lecotd/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/tejas5t6/lecotd/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Hash Table
