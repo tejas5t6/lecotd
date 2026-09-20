@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/tejas5t6/lecotd/tree/master/0731-my-calendar-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/tejas5t6/lecotd/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/tejas5t6/lecotd/tree/master/0845-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/tejas5t6/lecotd/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/tejas5t6/lecotd/tree/master/0905-sort-array-by-parity) |
 | [0931-minimum-falling-path-sum](https://github.com/tejas5t6/lecotd/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/tejas5t6/lecotd/tree/master/0973-k-closest-points-to-origin) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/tejas5t6/lecotd/tree/master/0279-perfect-squares) |
 | [0633-sum-of-square-numbers](https://github.com/tejas5t6/lecotd/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/tejas5t6/lecotd/tree/master/0836-rectangle-overlap) |
+| [0877-stone-game](https://github.com/tejas5t6/lecotd/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/tejas5t6/lecotd/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tejas5t6/lecotd/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tejas5t6/lecotd/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/tejas5t6/lecotd/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/tejas5t6/lecotd/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/tejas5t6/lecotd/tree/master/0845-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/tejas5t6/lecotd/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/tejas5t6/lecotd/tree/master/0931-minimum-falling-path-sum) |
 | [1014-best-sightseeing-pair](https://github.com/tejas5t6/lecotd/tree/master/1014-best-sightseeing-pair) |
 | [1092-shortest-common-supersequence](https://github.com/tejas5t6/lecotd/tree/master/1092-shortest-common-supersequence) |
@@ -443,4 +446,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/tejas5t6/lecotd/tree/master/0229-majority-element-ii) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tejas5t6/lecotd/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tejas5t6/lecotd/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tejas5t6/lecotd/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
