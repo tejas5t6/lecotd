@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/tejas5t6/lecotd/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tejas5t6/lecotd/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tejas5t6/lecotd/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/tejas5t6/lecotd/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/tejas5t6/lecotd/tree/master/0279-perfect-squares) |
 | [0633-sum-of-square-numbers](https://github.com/tejas5t6/lecotd/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/tejas5t6/lecotd/tree/master/0836-rectangle-overlap) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/tejas5t6/lecotd/tree/master/0258-add-digits) |
 | [1094-car-pooling](https://github.com/tejas5t6/lecotd/tree/master/1094-car-pooling) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tejas5t6/lecotd/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Backtracking
@@ -465,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/tejas5t6/lecotd/tree/master/0877-stone-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/tejas5t6/lecotd/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
