@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/tejas5t6/lecotd/tree/master/1480-running-sum-of-1d-array) |
 | [1598-crawler-log-folder](https://github.com/tejas5t6/lecotd/tree/master/1598-crawler-log-folder) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/tejas5t6/lecotd/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tejas5t6/lecotd/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tejas5t6/lecotd/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/tejas5t6/lecotd/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tejas5t6/lecotd/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/tejas5t6/lecotd/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tejas5t6/lecotd/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tejas5t6/lecotd/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tejas5t6/lecotd/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tejas5t6/lecotd/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/tejas5t6/lecotd/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tejas5t6/lecotd/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/tejas5t6/lecotd/tree/master/0845-longest-mountain-in-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tejas5t6/lecotd/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2094-finding-3-digit-even-numbers](https://github.com/tejas5t6/lecotd/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tejas5t6/lecotd/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tejas5t6/lecotd/tree/master/3483-unique-3-digit-even-numbers) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0461-hamming-distance](https://github.com/tejas5t6/lecotd/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/tejas5t6/lecotd/tree/master/0645-set-mismatch) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tejas5t6/lecotd/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/tejas5t6/lecotd/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/tejas5t6/lecotd/tree/master/0494-target-sum) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tejas5t6/lecotd/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -485,4 +490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/tejas5t6/lecotd/tree/master/0258-add-digits) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/tejas5t6/lecotd/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
